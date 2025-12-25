@@ -1,0 +1,42 @@
+.intro {
+    margin: 80px 0 0 0;
+    width: 100vw;
+    height: 200px;
+    background-color: #cdcdcd;
+    color: black;
+
+    p {
+        color: #000;
+        font-size: 18px;
+        font-family: 宋体;
+    }
+}
+
+.img {
+    background-color: #eeeeee;
+    float: left;
+    width: 500px;
+    height: 400px;
+}
+
+.wenzi {
+    background-color: #9f9f9f;
+    float: left;
+    width: 900px;
+    height: 400px;
+}
+
+.mov {
+    float: left;
+    width: 100vw;
+    height: 600px;
+    background-color: #7d7d7d;
+    color: black;
+}
+
+.end {
+    float: left;
+    background-color: #464646;
+    height: 300px;
+    width: 100%;
+}
